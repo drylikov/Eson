@@ -1,6 +1,6 @@
 # Eson
 
-  Extended JSON for node.
+  Extended JSON for Node.
 
 ## Installation
 
@@ -262,7 +262,6 @@ yields:
 $ npm install
 $ make test
 ```
-
 
 
 
