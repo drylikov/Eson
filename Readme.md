@@ -263,4 +263,3 @@ $ npm install
 $ make test
 ```
 
-
