@@ -1,0 +1,18 @@
+
+{
+    "name": "eson"
+  , "version": "0.4.1"
+  , "description": "Extended JSON - pluggable JSON logic for dates, includes, and more"
+  , "repository": { "type": "git", "url": "git://github.com/drylikov/eson.git" }
+  , "keywords": ["json", "config"]
+  , "author": "Denis Rylikov <denis.rylikov@protonmail.com>"
+  , "dependencies": {
+    "glob": "*"
+  }
+  , "devDependencies": {
+    "mocha": "*",
+    "should": "*"
+  }
+  , "main": "index"
+  , "engines": { "node": "*" }
+}

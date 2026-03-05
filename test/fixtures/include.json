@@ -1,0 +1,4 @@
+
+["foo",
+ "include config/permissions",
+ "include config/roles"]
