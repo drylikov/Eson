@@ -1,5 +1,4 @@
-
-# eson
+# Eson
 
   Extended JSON for node.
 
